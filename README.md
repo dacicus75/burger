@@ -13,3 +13,7 @@ Whenever a user submits a burger’s name, the app will display the burger on th
 Each burger in the waiting area will have a ‘Devour it!’ button. When the user clicks it, the burger will move to the right of the page. 
 
 The app stores every burger in a database, whether devoured or not. 
+
+Screenshot
+
+![burger](https://user-images.githubusercontent.com/46613441/57052809-a2c0a700-6c57-11e9-8271-2e6bed04f66f.png)
